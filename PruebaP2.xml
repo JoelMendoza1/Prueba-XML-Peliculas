@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<cartelera>
+    <pelicula>
+        <codigo Id="1"/>
+        <titulo>Avengers: Endgame</titulo>
+        <yearPelicula>2019</yearPelicula>
+        <duracion>
+            <horas>3 horas</horas>
+            <minutos>2 minutos</minutos>
+            <segundos>0 segundos</segundos>
+        </duracion>
+        <nacionalidad>Estados Unidos</nacionalidad>
+        <genero>Superhéroes</genero>
+        <clasificacion>PG-13 Intensas secuencias de acción y violencia de ciencia ficción, lenguaje y algunas referencias crudas</clasificacion>
+        <director>
+            <nombre>Anthony</nombre>
+            <apellido>Russo</apellido>
+            <fechaNacimiento>
+                <yearNac>1970</yearNac>
+                <mesNac>Febrero</mesNac>
+                <diaNac>3</diaNac>
+            </fechaNacimiento>
+        </director>
+        <director>
+            <nombre>Joe</nombre>
+            <apellido>Russo</apellido>
+            <fechaNacimiento>
+                <yearNac>1971</yearNac>
+                <mesNac>Julio</mesNac>
+                <diaNac>8</diaNac>
+            </fechaNacimiento>
+        </director>
+        <reparto>
+            <actoresPrincipales>
+                <nombresOriginales>Robert Downey Jr.</nombresOriginales>
+                <nombreEnPeli>Tony Stark/Iron Man</nombreEnPeli>
+            </actoresPrincipales>
+            <actoresPrincipales>
+                <nombresOriginales>Chris Evans</nombresOriginales>
+                <nombreEnPeli>Steve Rogers/Capitán América</nombreEnPeli>
+            </actoresPrincipales>
+            <actoresPrincipales>
+                <nombresOriginales>Chris Hemsworth</nombresOriginales>
+                <nombreEnPeli>Thor</nombreEnPeli>
+            </actoresPrincipales>
+            <actoresPrincipales>
+                <nombresOriginales>Scarlett Johansson</nombresOriginales>
+                <nombreEnPeli>Natasha Romanoff/Black Widow</nombreEnPeli>
+            </actoresPrincipales>
+            <actoresPrincipales>
+                <nombresOriginales>Mark Ruffalo</nombresOriginales>
+                <nombreEnPeli>Bruce Banner/Profesor Hulk</nombreEnPeli>
+            </actoresPrincipales>
+            <actoresPrincipales>
+                <nombresOriginales>Paul Rudd</nombresOriginales>
+                <nombreEnPeli>Scott Lang/Ant-Man</nombreEnPeli>
+            </actoresPrincipales>
+            <actoresPrincipales>
+                <nombresOriginales>Jeremy Renner</nombresOriginales>
+                <nombreEnPeli>Clint Barton/Hawkeye/Ronnin</nombreEnPeli>
+            </actoresPrincipales>
+            <actoresPrincipales>
+                <nombresOriginales>Brie Larson</nombresOriginales>
+                <nombreEnPeli>Carol Danvers/Capitana Marvel</nombreEnPeli>
+            </actoresPrincipales>
+            <actoresPrincipales>
+                <nombresOriginales>Don Cheadle</nombresOriginales>
+                <nombreEnPeli>James Rhodes/Máquina de Guerra</nombreEnPeli>
+            </actoresPrincipales>
+            <actoresPrincipales>
+                <nombresOriginales>Karen Gillan</nombresOriginales>
+                <nombreEnPeli>Nebula</nombreEnPeli>
+            </actoresPrincipales>
+            <actoresPrincipales>
+                <nombresOriginales>Bradley Cooper</nombresOriginales>
+                <nombreEnPeli>Rocket Raccoon</nombreEnPeli>
+            </actoresPrincipales>
+            <actoresPrincipales>
+                <nombresOriginales>Josh Brolin</nombresOriginales>
+                <nombreEnPeli>Tanos</nombreEnPeli>
+            </actoresPrincipales>
+            
+            <actoresSecundarios>
+                <nombresOriginales>Danai Gurira</nombresOriginales>
+                <nombreEnPeli>Okoye</nombreEnPeli>
+            </actoresSecundarios>
+            <actoresSecundarios>
+                <nombresOriginales>Gwyneth Paltrow</nombresOriginales>
+                <nombreEnPeli>Peper Potts/Rescate</nombreEnPeli>
+            </actoresSecundarios>
+            <actoresSecundarios>
+                <nombresOriginales>Tessa Thompson</nombresOriginales>
+                <nombreEnPeli>Valquiria</nombreEnPeli>
+            </actoresSecundarios>
+            <actoresSecundarios>
+                <nombresOriginales>Benedict Wong</nombresOriginales>
+                <nombreEnPeli>Wong</nombreEnPeli>
+            </actoresSecundarios>
+            <actoresSecundarios>
+                <nombresOriginales>Jon Favreau</nombresOriginales>
+                <nombreEnPeli>Happy Hogan</nombreEnPeli>
+            </actoresSecundarios>
+            <actoresSecundarios>
+                <nombresOriginales>Benedict Cumberbatch</nombresOriginales>
+                <nombreEnPeli>Dr. Stephen Strange</nombreEnPeli>
+            </actoresSecundarios>
+            <actoresSecundarios>
+                <nombresOriginales>Chadwick Boseman</nombresOriginales>
+                <nombreEnPeli>T'Challa/Black Panther</nombreEnPeli>
+            </actoresSecundarios>
+            <actoresSecundarios>
+                <nombresOriginales>Elizabeth Olsen</nombresOriginales>
+                <nombreEnPeli>Wanda Maximoff/Scarlet Witch</nombreEnPeli>
+            </actoresSecundarios>
+            <actoresSecundarios>
+                <nombresOriginales>Sebastian Stan</nombresOriginales>
+                <nombreEnPeli>Bucky Barnes/Soldado del invierno</nombreEnPeli>
+            </actoresSecundarios>
+            <actoresSecundarios>
+                <nombresOriginales>Tom Hiddleston</nombresOriginales>
+                <nombreEnPeli>Loki</nombreEnPeli>
+            </actoresSecundarios>
+            <actoresSecundarios>
+                <nombresOriginales>Tom Holland</nombresOriginales>
+                <nombreEnPeli>Peter Parker/Spider-Man/Iron Spider</nombreEnPeli>
+            </actoresSecundarios>
+            
+            <dobles>
+                <nombresOriginales>Bobby Holland</nombresOriginales>
+                <sustituye>Chris Hemsworth/Tor</sustituye>
+            </dobles>
+            <dobles>
+                <nombresOriginales>Paul Lacovara</nombresOriginales>
+                <sustituye>Tom Hidleston/Loki</sustituye>
+            </dobles>
+            <dobles>
+                <nombresOriginales>Bobby Holland</nombresOriginales>
+                <sustituye>Chris Hemsworth/Tor</sustituye>
+            </dobles>
+            <dobles>
+                <nombresOriginales>James Young</nombresOriginales>
+                <sustituye>Sebastian Stan/Soldado del invierno</sustituye>
+            </dobles>
+            <dobles>
+                <nombresOriginales>Tonny McFarr</nombresOriginales>
+                <sustituye>Chris Pratt/Tor</sustituye>
+            </dobles>
+            <dobles>
+                <nombresOriginales>Aaron Toney</nombresOriginales>
+                <sustituye>Anthony Mackie/Falcon</sustituye>
+            </dobles>
+            <dobles>
+                <nombresOriginales>Heidi Moneymakey</nombresOriginales>
+                <sustituye>Scaelett Johansson/Natasha Romanoff</sustituye>
+            </dobles>
+            <dobles>
+                <nombresOriginales>Sam Hargrave</nombresOriginales>
+                <sustituye>Chris Evans/Capitán América</sustituye>
+            </dobles>
+        </reparto><dobles>
+                <nombresOriginales>Anthony Molinari</nombresOriginales>
+                <sustituye>Mark Ruffalo/Hulk</sustituye>
+            </dobles>
+            
+        <sinopsis>
+            Los Vengadores restantes deben encontrar una manera de recuperar a sus aliados para un enfrentamiento épico con Thanos, el malvado que diezmó el planeta y el universo.
+        </sinopsis>
+    </pelicula>
+</cartelera>
